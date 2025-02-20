@@ -37,7 +37,7 @@ export default function Register() {
   return (
     <>
       <Head>
-        <title>Login</title>
+        <title>Login Masuk</title>
         <meta name="description" content="User registration page" />
       </Head>
       <div className="min-h-screen flex items-center justify-center bg-indigo-900">
